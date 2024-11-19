@@ -1,0 +1,31 @@
+.bello {
+font-size: 40px;
+font-family: Comic Sans MS;
+text-align: center;
+}
+
+#grah{
+border-radius: 50%;
+width: 500px;
+border-color: blueviolet;
+}
+
+#grah:hover {
+    border-width: 5px;
+    border-style: outset;
+}
+
+table,tr,td,th{
+border-style: solid;
+border-color: blueviolet;
+border-width: 2px;
+
+}
+td,th{
+width: 150px;
+height: 150px;
+}
+th{
+height: 100px;
+
+}
